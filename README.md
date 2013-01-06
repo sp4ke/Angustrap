@@ -1,4 +1,4 @@
-# Angularstrap
+# Angustrap
 
 My personnal web app seed project. 
 Uses: AngularJS, coffeescript, bootstrap, less, animate.css ... 
