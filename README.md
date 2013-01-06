@@ -1,11 +1,11 @@
-# angular-seed-coffeescript
-## The seed for AngularJS apps, in coffeescript
+# Angularstrap
 
-This project is a straight [coffeescript](http://coffeescript.org/) port of the [angular-seed](https://github.com/angular/angular-seed) project.
+My personnal web app seed project. 
+Uses: AngularJS, coffeescript, bootstrap, less, animate.css ... 
 
 ## Status
 
-Ready for use.
+Not ready for use.
 
 ## Noted differences from angular-seed
 * The use of coffeescript requires that Angular be [bootstrapped manually](http://docs.angularjs.org/guide/bootstrap).
@@ -17,3 +17,5 @@ Ready for use.
 
 * Bring back index-async.html
 * Port tests to coffeescript (currently still js)
+* add build system
+* add custom bootstrap to build process
