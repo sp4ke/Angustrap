@@ -1,3 +1,6 @@
 [submodule "app/lib/bootstrap"]
 	path = app/lib/bootstrap
 	url = git@github.com:twitter/bootstrap.git
+[submodule "app/lib/animate.css"]
+	path = app/lib/animate.css
+	url = git@github.com:daneden/animate.css.git
