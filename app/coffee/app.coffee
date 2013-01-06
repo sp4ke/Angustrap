@@ -7,4 +7,3 @@ angular
       $routeProvider.otherwise({redirectTo: '/view1'})
     ])
 
-angular.bootstrap(document,['myApp'])
