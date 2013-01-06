@@ -19,3 +19,5 @@ Not ready for use.
 * Port tests to coffeescript (currently still js)
 * add build system
 * add custom bootstrap to build process
+* add font-awesome 
+* add modernizr
