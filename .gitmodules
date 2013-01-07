@@ -4,3 +4,6 @@
 [submodule "app/lib/animate.css"]
 	path = app/lib/animate.css
 	url = git@github.com:daneden/animate.css.git
+[submodule "app/lib/fontawesome"]
+	path = app/lib/fontawesome
+	url = git@github.com:FortAwesome/Font-Awesome.git
