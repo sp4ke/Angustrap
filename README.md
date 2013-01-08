@@ -15,9 +15,7 @@ Not ready for use.
 
 ## TODOs
 
-* Bring back index-async.html
+* use Require.js
 * Port tests to coffeescript (currently still js)
 * add build system
-* add custom bootstrap to build process
-* add font-awesome 
 * add modernizr
