@@ -6,6 +6,13 @@ Uses: AngularJS, coffeescript, bootstrap, less, animate.css ...
 ## Status
 
 Not ready for use.
+To start using:
+
+* `git submodule init && git submodule update`
+
+* `./scripts/web-server.js`
+
+* App code is located in app/coffee
 
 ## Noted differences from angular-seed
 * The use of coffeescript requires that Angular be [bootstrapped manually](http://docs.angularjs.org/guide/bootstrap).
