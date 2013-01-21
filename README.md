@@ -22,6 +22,7 @@ To start using:
 
 ## TODOs
 
+* include angular-ui lib
 * use Require.js
 * Port tests to coffeescript (currently still js)
 * add build system
