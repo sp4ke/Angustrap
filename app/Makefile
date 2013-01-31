@@ -31,5 +31,9 @@ clean:
 	@rm -rf ${OUTPUT} ${OUTPUT_MIN}
 
 
+watch:
+	echo "Watching less files..."; \
+	watchr watch_script
+
 .PHONY: build bootstrap
 
