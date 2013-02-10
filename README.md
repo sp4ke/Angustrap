@@ -27,3 +27,4 @@ To start using:
 * Port tests to coffeescript (currently still js)
 * add build system
 * add modernizr
+* Update loader.js/$script.js / some issues with async loader from angular seed app
