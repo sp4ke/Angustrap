@@ -22,9 +22,9 @@ To start using:
 
 ## TODOs
 
-* include angular-ui lib
-* use Require.js
-* Port tests to coffeescript (currently still js)
-* add build system
-* add modernizr
-* Update loader.js/$script.js / some issues with async loader from angular seed app
+- include angular-ui lib
+- use Require.js
+- Port tests to coffeescript (currently still js)
+- add build system
+- add modernizr
+- Update loader.js/$script.js | [@angular/angular-seed #40](https://github.com/angular/angular-seed/issues/40)
