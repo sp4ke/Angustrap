@@ -2,7 +2,7 @@
 
 My personnal web app seed project. 
 - It's based on AngularJS, coffeescript and less. 
-- Uses git submodules inside /lib directory for project dependencies
+- Uses git submodules inside `app/lib` directory for project dependencies
 - Customizable scripts for rapid web development 
 
 
