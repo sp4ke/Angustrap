@@ -1,18 +1,22 @@
 # Angustrap
 
 My personnal web app seed project. 
-Uses: AngularJS, coffeescript, bootstrap, less, animate.css ... 
+- It's based on AngularJS, coffeescript and less. 
+- Uses git submodules inside /lib directory for project dependencies
+- Customizable scripts for rapid web development 
+
 
 ## Status
 
-Not ready for use.
-To start using:
+To start using, just clone this repo then init the submodules. 
 
 * `git submodule init && git submodule update`
 
-* `./scripts/web-server.js`
+To run the dev server:
 
-* App code is located in app/coffee
+`./scripts/web-server.js`
+
+- Application code is located in app/coffee
 
 ## Noted differences from angular-seed
 * The use of coffeescript requires that Angular be [bootstrapped manually](http://docs.angularjs.org/guide/bootstrap).
